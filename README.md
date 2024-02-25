@@ -1,5 +1,5 @@
 How to use:
-1. Download exe file
+1. Download exe file in realeses
 2. Run as administrator
 3. If you want to use the whitelist use the file path like this "C:\Users\Username\AppData\Local\Roblox\Versions\version-70a2467227df4077\RobloxPlayerBeta.exe"
 4. If you dont need whitelist just click the "no whitelist" button
