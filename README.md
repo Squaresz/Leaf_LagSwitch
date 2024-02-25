@@ -1,5 +1,7 @@
 Lag switch made for Roblox
+
 Made using ChatGPT in Python
+
 Open Source
 
 How to use:
