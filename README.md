@@ -1,3 +1,5 @@
+Lag switch made for Roblox
+
 How to use:
 1. Download exe file in realeses (or click this link: https://github.com/Squaresz/Leaf/releases/download/LeafV2/Leaf_LagSwitchV2.1.exe)
 2. Run as administrator
