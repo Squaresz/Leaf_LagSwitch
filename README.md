@@ -10,6 +10,3 @@ Open Source
 3. If you want to use the whitelist use the file path like this "C:\Users\Username\AppData\Local\Roblox\Versions\version-\RobloxPlayerBeta.exe"
 4. If you dont need whitelist just click the "no whitelist" button
 5. Done
-
-### Post Bugs Here:
-https://github.com/Squaresz/Leaf_LagSwitch/issues
